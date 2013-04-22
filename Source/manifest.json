@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+	"name": "Patriot Act",
+	"version": "1.0",
+	"description": "Replaces the text 'shit' (and derivatives of) to 'Patriot Act'",
+	"content_scripts": 
+	[
+		{
+			"matches": ["*://*/*"],
+			"js": ["content_script.js"],
+			"run_at": "document_end"
+		}
+	]
+}
+

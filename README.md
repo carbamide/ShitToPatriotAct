@@ -1,3 +1,8 @@
+This plugin was inspired by Roy Zimmerman's "Patriot Act" 
+
+Enjoy!
+
+
 http://www.royzimmerman.com/lyrics/homeland_patriot.html
 
 Patriot Act
